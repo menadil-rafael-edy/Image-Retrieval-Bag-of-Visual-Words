@@ -1,1 +1,1 @@
-"# Image-Retrieval-Bag-of-Visual-Words" 
+# Image-Retrieval-Bag-of-Visual-Words
